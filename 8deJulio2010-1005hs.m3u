@@ -71,14 +71,7 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u
 
 
 
-#EXTINF:0,MTV CLIPES 1
-http://rtmp.one.by:1200
 
-#EXTINF:0,Xite | HD
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-
-#EXTINF:0,Music Choice | HD
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o45pRf" group-title="POP LATINO", Sebastián Yatra - SUTRA ft. Dalmata
 https://www.youtube.com/watch?v=kPLmhYlLkfk
@@ -141,15 +134,11 @@ http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:0 group-title="MUSICA", TV 538.
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
-#EXTINF:0 group-title="MUSICA", NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0 group-title="MUSICA", MTV CLIPES 1
+http://rtmp.one.by:1200
 
-#EXTINF:0 group-title="MUSICA", Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0 group-title="MUSICA", Xite | HD
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
 
-#EXTINF:0 group-title="MUSICA", SP:Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-
-#EXTINF:0 group-title="MUSICA", Hit TV | SD
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
+#EXTINF:0 group-title="MUSICA", Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
