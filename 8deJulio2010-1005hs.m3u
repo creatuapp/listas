@@ -43,11 +43,8 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:0,7TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
-
-
 #EXTINF:0,SP:Canal Parlamento - Madrid
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-
 
 #EXTINF:0,SPAIN:TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -57,7 +54,6 @@ http://185.29.68.24/tvb.m3u8
 
 #EXTINF:0,ALCARRIA TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-
 
 #EXTINF:0, 2:network-caching=1000
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
@@ -134,11 +130,4 @@ http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:0 group-title="MUSICA", TV 538.
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
-#EXTINF:0 group-title="MUSICA", MTV CLIPES 1
-http://rtmp.one.by:1200
 
-#EXTINF:0 group-title="MUSICA", Xite | HD
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-
-#EXTINF:0 group-title="MUSICA", Music Choice | HD
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
