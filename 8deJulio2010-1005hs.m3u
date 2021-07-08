@@ -131,3 +131,97 @@ http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus (COVID-19)" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/3/b4/3b435ab0-5ef9-11ea-baa3-ef7f9dcdf754/5e6120183a258.image.jpg?resize=400%2C225" group-title="|EU| ESPAÑA CANALES",Coronavirus (COVID-19)
+http://iptvfhd.com:8000/50199056590330/72730902756943/93527
+#EXTINF:-1 tvg-id="" tvg-name="---------- CINE ESPANA ----------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/300px-Spain_flag_icon.svg.png" group-title="|EU| ESPAÑA CANALES",---------- CINE ESPANA ----------
+http://iptvfhd.com:8000/50199056590330/72730902756943/89374
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES: 24 HORAS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg" group-title="|EU| ESPAÑA CANALES",ES: 24 HORAS
+http://iptvfhd.com:8000/50199056590330/72730902756943/30197
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="|EU| ESPAÑA CANALES",ES: LA 1
+http://iptvfhd.com:8000/50199056590330/72730902756943/68067
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="|EU| ESPAÑA CANALES",ES: LA 1
+http://iptvfhd.com:8000/50199056590330/72730902756943/30224
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="|EU| ESPAÑA CANALES",ES: LA 1 FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30223
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="|EU| ESPAÑA CANALES",ES: LA 2
+http://iptvfhd.com:8000/50199056590330/72730902756943/30222
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="|EU| ESPAÑA CANALES",ES: ANTENA 3
+http://iptvfhd.com:8000/50199056590330/72730902756943/30220
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="|EU| ESPAÑA CANALES",ES: ANTENA 3 FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30219
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: LA CUATRO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Cuatro_%28logo%29.svg/1280px-Cuatro_%28logo%29.svg.png" group-title="|EU| ESPAÑA CANALES",ES: LA CUATRO
+http://iptvfhd.com:8000/50199056590330/72730902756943/30218
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cuatro_es.jpg" group-title="|EU| ESPAÑA CANALES",ES: CUATRO FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30217
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="|EU| ESPAÑA CANALES",ES: TELECINCO
+http://iptvfhd.com:8000/50199056590330/72730902756943/30216
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecinco.jpg" group-title="|EU| ESPAÑA CANALES",ES: TELECINCO FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30215
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="|EU| ESPAÑA CANALES",ES: LA SEXTA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30214
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/la_sexta.jpg" group-title="|EU| ESPAÑA CANALES",ES: LA SEXTA FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30213
+#EXTINF:-1 tvg-id="es.Aragón TV Int" tvg-name="ES: ARAGON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="|EU| ESPAÑA CANALES",ES: ARAGON TV
+http://iptvfhd.com:8000/50199056590330/72730902756943/30191
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: CANAL SUR" tvg-logo="https://fr.thematv.ca/medias/channels/canal-sur/canal-sur.png" group-title="|EU| ESPAÑA CANALES",ES: CANAL SUR
+http://iptvfhd.com:8000/50199056590330/72730902756943/46234
+#EXTINF:-1 tvg-id="Telesur.es" tvg-name="ES: CANAL SUR A" tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/fd58f8e455476f3edf50215429db4689_XL.jpg?t=1464867121" group-title="|EU| ESPAÑA CANALES",ES: CANAL SUR A
+http://iptvfhd.com:8000/50199056590330/72730902756943/30179
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antena_nova.jpg" group-title="|EU| ESPAÑA CANALES",ES: NOVA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30199
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: TV 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png" group-title="|EU| ESPAÑA CANALES",ES: TV 13
+http://iptvfhd.com:8000/50199056590330/72730902756943/30049
+#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="ES: ANDALUCIA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/andalucia_tv.jpg" group-title="|EU| ESPAÑA CANALES",ES: ANDALUCIA TV
+http://iptvfhd.com:8000/50199056590330/72730902756943/30192
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: 13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/13_TV.svg" group-title="|EU| ESPAÑA CANALES",ES: 13 TV
+http://iptvfhd.com:8000/50199056590330/72730902756943/30198
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/odisea.jpg" group-title="|EU| ESPAÑA DOCUMENTALES",ES: ODISEA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30067
+#EXTINF:-1 tvg-id="" tvg-name="ES: INTERECONOMIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/intereconomia_tv.jpg" group-title="|EU| ESPAÑA CANALES",ES: INTERECONOMIA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30138
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/7RM_2015.png/revision/latest?cb=20150602113059" group-title="|EU| ESPAÑA CANALES",ES: 7RM FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30196
+#EXTINF:-1 tvg-id="" tvg-name="---------- Movistar Cine ----------" tvg-logo="http://pluspng.com/img-png/star-movies-png--800.png" group-title="|EU| ESPAÑA CANALES",---------- Movistar Cine ----------
+http://iptvfhd.com:8000/50199056590330/72730902756943/67871
+#EXTINF:-1 tvg-id="Movistar.es" tvg-name="ES: MOVISTAR 0#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR 0#
+http://iptvfhd.com:8000/50199056590330/72730902756943/30116
+#EXTINF:-1 tvg-id="Movistar.es" tvg-name="ES: MOVISTAR 0# FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR 0# FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30107
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR ACCION
+http://iptvfhd.com:8000/50199056590330/72730902756943/30115
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR ACCION FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30019
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR ACCION FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30106
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR ESTRENOS
+http://iptvfhd.com:8000/50199056590330/72730902756943/30098
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR ESTRENOS FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30015
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/2000px-Movistar_Estrenos.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR ESTRENOS FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30097
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR DRAMA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30101
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR DRAMA FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30100
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES: MOVISTAR SERIES" tvg-logo="https://seriepolis.com/wp-content/uploads/2018/02/movistar-series-1.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR SERIES
+http://iptvfhd.com:8000/50199056590330/72730902756943/30091
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="https://tv.orange.es/UpImages/2420/x_logo_landing_f9234bf610d902ba77dbd308b.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR SERIES FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30090
+#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-name="ES: MOVISTAR SERIESMANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/2000px-Movistar_Seriesman%C3%ADa.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR SERIESMANIA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30089
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES: MOVISTAR CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR CINE
+http://iptvfhd.com:8000/50199056590330/72730902756943/30017
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES: MOVISTAR CINE Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR CINE Ñ
+http://iptvfhd.com:8000/50199056590330/72730902756943/30018
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR COMEDIA
+http://iptvfhd.com:8000/50199056590330/72730902756943/30104
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR COMEDIA FHD
+http://iptvfhd.com:8000/50199056590330/72730902756943/30103
+#EXTINF:-1 tvg-id="MovistarCineDocRoll.es" tvg-name="ES: MOVISTAR CineDoc&Roll" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR CineDoc&Roll
+http://iptvfhd.com:8000/50199056590330/72730902756943/30086
+#EXTINF:-1 tvg-id="MovistarCineDocRoll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="|EU| ESPAÑA CANALES",ES: MOVISTAR CINEDOC&ROLL
+http://iptvfhd.com:8000/50199056590330/72730902756943/30105
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3 SERIE HD" tvg-logo="" group-title="|EU| ESPAÑA CANALES",ES: A3 SERIE HD
+http://iptvfhd.com:8000/50199056590330/72730902756943/101609
+
+
