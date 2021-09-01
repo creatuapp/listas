@@ -1,8 +1,14 @@
 #EXTM3U
  
-#EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
- 
-https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
+#EXTINF:-1 tvg-logo="https://avatars.githubusercontent.com/u/83588183?s=60&v=4", FREE HOST OF GITHUB
+https://github.com/
+
+#EXTINF:-1 tvg-logo="https://avatars.githubusercontent.com/u/83588183?s=60&v=4", FREE HOST OF GITHUB
+https://github.com/
+
+#EXTINF:-1 tvg-logo="https://avatars.githubusercontent.com/u/83588183?s=60&v=4", FREE HOST OF GITHUB
+https://github.com/
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -880,8 +886,7 @@ http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?ip
 #EXTINF:-1,Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 
-#EXTINF:-1,* www.listaiptv.org y www.listaiptv.org LISTA GRATIS * Rechaza IMITACIONES
-https://www.listaiptv.org
+
 #EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: CANAL 10 www.listaiptv.org
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chilenos",TVR | HD www.listaiptv.org
